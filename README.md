@@ -1,6 +1,4 @@
-Project SER316
-
-This is the initial dump for the SER316 project. It is a slightly modified version of the Memoranda project from memoranda.sf.net
+This is the initial dump for the Memoranda project. It is a slightly modified version of the Memoranda project from memoranda.sf.net
 
 The purpose of this project is to enhance the Memoranda application.
 
@@ -12,10 +10,4 @@ Your first step should be to clone the github repository (easiest way is to clon
 
 You should then be able to run the project. The included Gradle script and Wrapper should work. You should be able to use "gradle run" in the command line to run Memorande through Gradle. In due course you will need to add things to the Gradle file (eg. add Unit Test).
 
-Start of with changing little things to get to know Memoranda (before the project starts). 
-
-After that go back to the initial version and start your SCRUM process and document all changes through GitHub and Taiga (like I said, if it isn’t in GitHub/taiga it does not count).
-
-Good luck and have fun!
-
-Dr. Mehlhase
+Have fun!
